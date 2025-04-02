@@ -1,0 +1,142 @@
+.interface {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.interface .div {
+  background-color: #ffffff;
+  height: 812px;
+  position: relative;
+  width: 400px;
+}
+
+.interface .status-bar-instance {
+  height: 33px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 400px !important;
+}
+
+.interface .design-component-instance-node {
+  margin-top: -17.36px !important;
+}
+
+.interface .status-bar-2 {
+  margin-top: -19.00px !important;
+}
+
+.interface .status-bar-3 {
+  background-image: url(./union-2.svg) !important;
+}
+
+.interface .image {
+  height: 30px;
+  left: 133px;
+  object-fit: cover;
+  position: absolute;
+  top: 49px;
+  width: 33px;
+}
+
+.interface .text-wrapper {
+  color: #000000;
+  font-family: "Inter-ExtraBold", Helvetica;
+  font-size: 120px;
+  font-weight: 800;
+  height: 10px;
+  left: 169px;
+  letter-spacing: 0.20px;
+  line-height: 10px;
+  position: absolute;
+  text-align: center;
+  top: 59px;
+  white-space: nowrap;
+}
+
+.interface .clip-path-group {
+  height: 20px;
+  left: 34px;
+  position: absolute;
+  top: 540px;
+  width: 20px;
+}
+
+.interface .text-input-instance {
+  left: 40px !important;
+  position: absolute !important;
+  top: 141px !important;
+}
+
+.interface .frame {
+  background-color: #8e503a;
+  height: 54px;
+  left: 41px;
+  position: absolute;
+  top: 233px;
+  width: 147px;
+}
+
+.interface .img {
+  height: 40px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 114px;
+}
+
+.interface .overlap-group {
+  height: 152px;
+  left: 188px;
+  position: absolute;
+  top: 233px;
+}
+
+.interface .image-wrapper {
+  background-color: #9eeaec;
+  height: 54px;
+  left: 41px;
+  position: absolute;
+  top: 0;
+  width: 147px;
+}
+
+.interface .image-2 {
+  height: 40px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 148px;
+}
+
+.interface .image-3 {
+  height: 104px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 480px;
+  width: 185px;
+}
+
+.interface .img-wrapper {
+  background-color: #192e96;
+  height: 54px;
+  left: 41px;
+  position: absolute;
+  top: 360px;
+  width: 147px;
+}
+
+.interface .image-4 {
+  height: 40px;
+  left: 20px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 143px;
+}
