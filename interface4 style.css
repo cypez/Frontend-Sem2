@@ -1,0 +1,224 @@
+.interface {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.interface .div {
+  background-color: #ffffff;
+  height: 812px;
+  position: relative;
+  width: 400px;
+}
+
+.interface .status-bar-instance {
+  height: 33px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 400px !important;
+}
+
+.interface .design-component-instance-node {
+  margin-top: -17.36px !important;
+}
+
+.interface .status-bar-2 {
+  margin-top: -19.00px !important;
+}
+
+.interface .status-bar-3 {
+  background-image: url(./union-2.svg) !important;
+}
+
+.interface .image {
+  height: 30px;
+  left: 133px;
+  object-fit: cover;
+  position: absolute;
+  top: 49px;
+  width: 33px;
+}
+
+.interface .text-wrapper {
+  color: #000000;
+  font-family: "Inter-ExtraBold", Helvetica;
+  font-size: 120px;
+  font-weight: 800;
+  height: 10px;
+  left: 169px;
+  letter-spacing: 0.20px;
+  line-height: 10px;
+  position: absolute;
+  text-align: center;
+  top: 59px;
+  white-space: nowrap;
+}
+
+.interface .clip-path-group {
+  height: 20px;
+  left: 34px;
+  position: absolute;
+  top: 540px;
+  width: 20px;
+}
+
+.interface p {
+  color: #000000;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  height: 20px;
+  left: 75px;
+  letter-spacing: 0.20px;
+  line-height: 10px;
+  position: absolute;
+  text-align: center;
+  top: 227px;
+  width: 223px;
+}
+
+.interface .overlap-group {
+  height: 47px;
+  left: 75px;
+  position: absolute;
+  top: 316px;
+  width: 272px;
+}
+
+.interface .image {
+  height: 28px;
+  left: 75px;
+  position: absolute;
+  top: 316px;
+  width: 28px;
+}
+
+.interface .text-wrapper-2 {
+  color: #000000;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  height: 20px;
+  left: 101px;
+  letter-spacing: 0.20px;
+  line-height: 10px;
+  position: absolute;
+  text-align: center;
+  top: 405px;
+  white-space: nowrap;
+}
+
+.interface .text-wrapper-3 {
+  color: #000000;
+  font-family: "Inter-Light", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  height: 20px;
+  left: 101px;
+  letter-spacing: 0.20px;
+  line-height: 10px;
+  position: absolute;
+  text-align: center;
+  top: 227px;
+  width: 245px;
+}
+
+.interface .frame {
+  background-color: #111211;
+  border-radius: 15px;
+  height: 50px;
+  left: 81px;
+  overflow: hidden;
+  position: absolute;
+  top: 650px;
+  width: 210px;
+}
+
+.interface .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  height: 650px;
+  letter-spacing: 0.20px;
+  line-height: 10px;
+  position: absolute;
+  top: 620px;
+  width: 179px;
+}
+
+.interface .frame-2 {
+  height: 30px;
+  left: 138px;
+  position: absolute;
+  top: 105px;
+  width: 117px;
+}
+
+.interface .text-wrapper-5 {
+  color: #ffffff;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  height: 650px;
+  letter-spacing: 0.20px;
+  line-height: 10px;
+  position: absolute;
+  top: 650px;
+  width: 179px;
+}
+
+.interface .ellipse {
+  height: 28px;
+  left: 73px;
+  object-fit: cover;
+  position: absolute;
+  top: 392px;
+  width: 28px;
+}
+
+.interface .ellipse-2 {
+  height: 20px;
+  left: 120px;
+  object-fit: cover;
+  position: absolute;
+  top: 350px;
+  width: 30px;
+}
+
+.interface .text-wrapper-6 {
+  color: #ffffff;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  height: 10px;
+  left: 76px;
+  letter-spacing: 0.20px;
+  line-height: 10px;
+  position: absolute;
+  text-align: center;
+  top: 232px;
+  width: 260px;
+}
+
+.interface .frame-3 {
+  background-color: #111211;
+  border-radius: 15px;
+  height: 50px;
+  left: 81px;
+  overflow: hidden;
+  position: absolute;
+  top: 730px;
+  width: 210px;
+}
+
+.interface .frame-4 {
+  height: 50px;
+  left: 138px;
+  position: absolute;
+  top: 150px;
+  width: 117px;
+}
