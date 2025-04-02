@@ -1,0 +1,460 @@
+.interface {
+  background-color: #0c1031;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.interface .div {
+  background-color: #0c1031;
+  height: 812px;
+  overflow: hidden;
+  position: relative;
+  width: 400px;
+}
+
+.interface .status-bar-instance {
+  height: 33px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 400px !important;
+}
+
+.interface .design-component-instance-node {
+  margin-top: -17.36px !important;
+}
+
+.interface .status-bar-2 {
+  margin-top: -19.00px !important;
+}
+
+.interface .status-bar-3 {
+  background-image: url(./assets/union-2.svg) !important;
+}
+
+.interface .logo {
+  height: 67px;
+  left: 48px;
+  position: absolute;
+  top: 135px;
+  width: 275px;
+}
+
+.interface .overlap-group {
+  height: 56px;
+  left: 13px;
+  position: absolute;
+  top: 5px;
+  width: 53px;
+}
+
+.interface .vector {
+  height: 40px;
+  left: 9px;
+  position: absolute;
+  top: 11px;
+  width: 44px;
+}
+
+.interface .img {
+  height: 56px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 53px;
+}
+
+.interface .wallet-sync {
+  color: transparent;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 28px;
+  font-weight: 400;
+  left: 99px;
+  letter-spacing: 0;
+  line-height: normal;
+  opacity: 0.99;
+  position: absolute;
+  top: 15px;
+  width: 158px;
+}
+
+.interface .text-wrapper {
+  color: #ffffff;
+}
+
+.interface .span {
+  color: #3ecf8e;
+}
+
+.interface .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 57px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 207px;
+  width: 256px;
+}
+
+.interface .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 117px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 240px;
+  width: 136px;
+}
+
+.interface .frame {
+  background-color: #28306f;
+  height: 36px;
+  left: 55px;
+  position: absolute;
+  top: 532px;
+  width: 238px;
+}
+
+.interface .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "Lato-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 36px;
+  letter-spacing: 0.50px;
+  line-height: normal;
+  position: absolute;
+  top: 8px;
+}
+
+.interface .touch-ID {
+  height: 20px !important;
+  left: 11px !important;
+  position: absolute !important;
+  top: 9px !important;
+  width: 20px !important;
+}
+
+.interface .frame-2 {
+  background-color: #28306f;
+  height: 34px;
+  left: 55px;
+  position: absolute;
+  top: 581px;
+  width: 238px;
+}
+
+.interface .text-wrapper-5 {
+  color: #ffffff;
+  font-family: "Lato-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 36px;
+  letter-spacing: 0.50px;
+  line-height: normal;
+  position: absolute;
+  top: 5px;
+}
+
+.interface .mingcute-wallet {
+  background-image: url(./assets/group.png);
+  background-size: 100% 100%;
+  height: 24px;
+  left: 12px;
+  position: absolute;
+  top: 2px;
+  width: 24px;
+}
+
+.interface .frame-3 {
+  background-color: #28306f;
+  height: 52px;
+  left: 117px;
+  position: absolute;
+  top: 120px;
+  width: 238px;
+}
+
+.interface .text-wrapper-6 {
+  color: #ffffff;
+  font-family: "Inter-Bold", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  height: 19px;
+  left: 52px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  position: absolute;
+  top: 7px;
+}
+
+.interface .text-wrapper-7 {
+  color: #ffffff;
+  font-family: "Inter-Bold", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  height: 19px;
+  left: 61px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  position: absolute;
+  top: 5px;
+}
+
+.interface .frame-4 {
+  background-color: #28306f;
+  height: 140px;
+  left: 222px;
+  position: absolute;
+  top: 543px;
+  width: 158px;
+}
+
+.interface .image-4 {
+  height: 40px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 40px;
+}
+.interface .text-wrapper-8 {
+  color: #ffffff;
+  font-family: "Inter-Bold", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  height: 19px;
+  left: 53px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  position: absolute;
+  top: 15px;
+}
+
+.interface .frame-5 {
+  background-color: #28306f;
+  height: 55px;
+  left: 34px;
+  position: absolute;
+  top: 395px;
+  width: 239px;
+}
+
+.interface .text-wrapper-9 {
+  color: #ffffff;
+  font-family: "Inter-Bold", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  height: 29px;
+  left: 79px;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: 15px;
+}
+
+.interface .image-5 {
+  height: 40px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 43px;
+}
+
+.interface .frame-6 {
+  background-color: #28306f;
+  height: 55px;
+  left: 350px;
+  position: absolute;
+  top: 560px;
+  width: 158px;
+}
+
+.interface .image-6 {
+  height: 40px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 40px;
+}
+
+.interface .text-wrapper-10 {
+  color: #ffffff;
+  font-family: "Inter-Bold", Helvetica;
+  font-size: 12px;
+  font-weight: 200;
+  height: 14px;
+  left: 5px;
+  letter-spacing: 0;
+  line-height: 14.4px;
+  position: absolute;
+  top: 34px;
+}
+
+.interface .div-wrapper {
+  background-color: #142e3a;
+  border-radius: 15px;
+  height: 309px;
+  left: 24px;
+  overflow: hidden;
+  position: absolute;
+  top: 90px;
+  width: 72px;
+}
+
+.interface .text-wrapper-11 {
+  color: #ffffff;
+  font-family: "Inter-Bold", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  height: 14px;
+  left: 5px;
+  letter-spacing: 0;
+  line-height: 14.4px;
+  position: absolute;
+  top: 7px;
+}
+
+.interface .image-4 {
+  height: 80px;
+  left: 239px;
+  object-fit: cover;
+  position: absolute;
+  top: 350px;
+  width: 150px;
+}
+
+.interface .text-wrapper-12 {
+  color: #ffffff;
+  font-family: "Inter-Bold", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  height: 19px;
+  left: 36px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  position: absolute;
+  top: 464px;
+  white-space: nowrap;
+}
+
+.interface .frame-7 {
+  background-color: #28306f;
+  height: 52px;
+  left: 11px;
+  position: absolute;
+  top: 743px;
+  width: 371px;
+}
+
+.interface .text-wrapper-13 {
+  color: #ffffff;
+  font-family: "Inter-Bold", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  height: 19px;
+  left: 89px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  position: absolute;
+  top: 17px;
+}
+
+.interface .image-5 {
+  height: 40px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 40px;
+}
+.interface .frame-6 {
+  background-color: #28306f;
+  height: 55px;
+  left: 350px;
+  position: absolute;
+  top: 560px;
+  width: 158px;
+}
+
+.interface .image-6 {
+  height: 40px;
+  left: 30px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 40px;
+}
+
+.interface .text-wrapper-14 {
+  color: #ffffff;
+  font-family: "Inter-Bold", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  height: 19px;
+  left: 52px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  position: absolute;
+  top: 17px;
+  width: 75px;
+}
+
+.interface .frame-7 {
+  background-color: #28306f;
+  border-radius: 45px;
+  height: 52px;
+  left: 11px;
+  overflow: hidden;
+  position: absolute;
+  top: 743px;
+  width: 371px;
+}
+
+.interface .text-wrapper-15 {
+  color: #ffffff;
+  font-family: "Inter-Bold", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  height: 29px;
+  left: 89px;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+}
+.interface .frame-7 {
+  background-color: #28306f;
+  border-radius: 45px;
+  height: 52px;
+  left: 11px;
+  overflow: hidden;
+  position: absolute;
+  top: 743px;
+  width: 371px;
+}
+
+.interface .text-wrapper-15 {
+  color: #ffffff;
+  font-family: "Inter-Bold", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  height: 29px;
+  left: 89px;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+}
