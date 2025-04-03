@@ -1,0 +1,87 @@
+.interface {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.interface .div {
+  background-color: #ffffff;
+  height: 812px;
+  position: relative;
+  width: 400px;
+}
+
+.interface .status-bar-instance {
+  height: 33px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 400px !important;
+}
+
+.interface .design-component-instance-node {
+  margin-top: -17.36px !important;
+}
+
+.interface .status-bar-2 {
+  margin-top: -19.00px !important;
+}
+
+.interface .status-bar-3 {
+  background-image: url(./union-2.svg) !important;
+}
+
+.interface .image {
+  height: 30px;
+  left: 133px;
+  object-fit: cover;
+  position: absolute;
+  top: 49px;
+  width: 30px;
+}
+
+.interface .text-wrapper {
+  color: #000000;
+  font-family: "Inter-ExtraBold", Helvetica;
+  font-size: 12px;
+  font-weight: 800;
+  height: 10px;
+  left: 169px;
+  letter-spacing: 0.20px;
+  line-height: 10px;
+  position: absolute;
+  text-align: center;
+  top: 58px;
+  white-space: nowrap;
+}
+
+.interface .clip-path-group {
+  height: 20px;
+  left: 34px;
+  position: absolute;
+}
+
+.interface .img {
+  height: 40px;
+  left: 167px;
+  object-fit: cover;
+  position: absolute;
+  top: 117px;
+  width: 40px;
+}
+
+.interface .headline {
+  color: #111111;
+  font-family: "Inter-Bold", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 34px;
+  letter-spacing: -0.40px;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 1729px;
+  width: 312px;
+}
