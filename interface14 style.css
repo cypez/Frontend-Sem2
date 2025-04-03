@@ -1,0 +1,396 @@
+.interface {
+  background-color: #0c1031;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.interface .div-2 {
+  background-color: #0c1031;
+  height: 812px;
+  overflow: hidden;
+  position: relative;
+  width: 400px;
+}
+
+.interface .status-bar-instance {
+  height: 33px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 400px !important;
+}
+
+.interface .design-component-instance-node {
+  margin-top: -17.36px !important;
+}
+
+.interface .status-bar-2 {
+  margin-top: -19.00px !important;
+}
+
+.interface .status-bar-3 {
+  background-image: url(./union-2.svg) !important;
+}
+
+.interface .logo {
+  height: 24px;
+  left: 30px;
+  position: absolute;
+  top: 52px;
+  width: 105px;
+}
+
+.interface .overlap-group {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 25px;
+}
+
+.interface .mask-group {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 21px;
+}
+
+.interface .vector {
+  height: 17px;
+  left: 8px;
+  position: absolute;
+  top: 5px;
+  width: 17px;
+}
+
+.interface .img {
+  height: 20px;
+  left: 4px;
+  position: absolute;
+  top: 1px;
+  width: 20px;
+}
+
+.interface .wallet-sync {
+  color: transparent;
+  font-family: 'Inter-Regular', Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 27px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+  width: 65px;
+}
+
+.interface .span {
+  color: #ffffff;
+}
+
+.interface .text-wrapper-2 {
+  color: #3ecf8e;
+}
+
+.interface .overlap {
+  height: 177px;
+  left: 25px;
+  position: absolute;
+  top: 129px;
+  width: 336px;
+}
+
+.interface .card {
+  height: 177px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 336px;
+}
+
+.interface .overlap-2 {
+  height: 177px;
+  left: 0;
+  position: relative;
+}
+
+.interface .card-bg {
+  background: linear-gradient(16deg, rgba(228, 44, 102, 1) 0%, rgba(121, 90, 77, 1) 0%, rgba(12, 16, 49, 1) 85%, rgba(70, 245, 102, 1) 100%);
+  border-radius: 30px;
+  height: 174px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 336px;
+}
+
+.interface .card-mask {
+  height: 174px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 336px;
+}
+
+.interface .ellipse {
+  height: 70px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 70px;
+}
+
+.interface .ellipse-2 {
+  height: 50px;
+  left: 253px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 59px;
+}
+
+.interface .notch {
+  height: 10px;
+  left: 82px;
+  position: absolute;
+  top: 143px;
+  width: 163px;
+}
+
+.interface .overlap-3 {
+  height: 55px;
+  left: 15px;
+  position: absolute;
+  top: 769px;
+  width: 391px;
+}
+
+.interface .tab-bar-instance {
+  display: flex !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 391px !important;
+}
+
+.interface .tab-bar-2 {
+  background-image: url(./devieder-2.svg) !important;
+  top: unset !important;
+  width: 375px !important;
+}
+
+.interface .ant-design-swap {
+  height: 24px;
+  left: 19px;
+  position: absolute;
+  top: 6px;
+  width: 24px;
+}
+
+.interface .text-wrapper-3 {
+  color: #0c1031;
+  font-family: 'Inter-Regular', Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  height: 10px;
+  left: 19px;
+  letter-spacing: 0.20px;
+  line-height: 10px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.interface .frame-2 {
+  background-color: #28306f;
+  border-radius: 12px;
+  height: 45px;
+  left: 34px;
+  overflow: hidden;
+  position: absolute;
+  top: 338px;
+  width: 153px;
+}
+
+.interface .text-wrapper-4 {
+  color: #ffffff;
+  font-family: 'Inter-Regular', Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  height: 10px;
+  letter-spacing: 0.20px;
+  line-height: 10px;
+  position: absolute;
+  text-align: center;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.interface .image {
+  height: 30px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 30px;
+}
+
+.interface .frame-3 {
+  background-color: #28306f;
+  border-radius: 12px;
+  height: 45px;
+  left: 35px;
+  overflow: hidden;
+  position: absolute;
+  top: 391px;
+  width: 153px;
+}
+
+.interface .text-wrapper-5 {
+  color: #ffffff;
+  font-family: 'Inter-Regular', Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  height: 10px;
+  letter-spacing: 0.20px;
+  line-height: 10px;
+  position: absolute;
+  text-align: center;
+  top: 17px;
+  white-space: nowrap;
+}
+
+.interface .image-2 {
+  height: 30px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 30px;
+}
+
+.interface .frame-4 {
+  background-color: #28306f;
+  border-radius: 12px;
+  height: 45px;
+  left: 34px;
+  overflow: hidden;
+  position: absolute;
+  top: 444px;
+  width: 153px;
+}
+
+.interface .text-wrapper-6 {
+  color: #ffffff;
+  font-family: 'Inter-Regular', Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  height: 10px;
+  letter-spacing: 0.20px;
+  line-height: 10px;
+  position: absolute;
+  text-align: center;
+  top: 17px;
+  white-space: nowrap;
+}
+
+.interface .image-3 {
+  height: 30px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 30px;
+}
+
+.interface .frame-5 {
+  background-color: #28306f;
+  border-radius: 12px;
+  height: 45px;
+  left: 34px;
+  overflow: hidden;
+  position: absolute;
+  top: 497px;
+  width: 153px;
+}
+
+.interface .text-wrapper-7 {
+  color: #ffffff;
+  font-family: 'Inter-Regular', Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  height: 10px;
+  letter-spacing: 0.20px;
+  line-height: 10px;
+  position: absolute;
+  text-align: center;
+  top: 17px;
+  white-space: nowrap;
+}
+
+.interface .image-4 {
+  height: 30px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 30px;
+}
+
+.interface .frame-6 {
+  background-color: #28306f;
+  border-radius: 12px;
+  height: 45px;
+  left: 34px;
+  overflow: hidden;
+  position: absolute;
+  top: 550px;
+  width: 153px;
+}
+
+.interface .text-wrapper-8 {
+  color: #ffffff;
+  font-family: 'Inter-Regular', Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  height: 10px;
+  letter-spacing: 0.20px;
+  line-height: 10px;
+  position: absolute;
+  text-align: center;
+  top: 17px;
+  white-space: nowrap;
+}
+
+.interface .image-5 {
+  height: 30px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 30px;
+}
+
+.interface .home-indicator {
+  height: 4px;
+  left: 261px;
+  position: absolute;
+  top: 106px;
+  width: 97px;
+}
+
+.interface .home-indicator-2 {
+  background-color: #3ecf8e;
+  border-radius: 100px;
+  height: 6px;
+  left: 1px;
+  position: relative;
+  top: -10px;
+  width: 99px;
+}
