@@ -1,0 +1,97 @@
+.interface {
+  background-color: #0c1031;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.interface .div-2 {
+  background-color: #0c1031;
+  height: 812px;
+  overflow: hidden;
+  position: relative;
+  width: 400px;
+}
+
+.interface .status-bar-instance {
+  height: 33px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 400px !important;
+}
+
+.interface .design-component-instance-node {
+  margin-top: -17.36px !important;
+}
+
+.interface .status-bar-2 {
+  margin-top: -19.00px !important;
+}
+
+.interface .status-bar-3 {
+  background-image: url(./union-2.svg) !important;
+}
+
+.interface .logo {
+  height: 24px;
+  left: 8px;
+  position: absolute;
+  top: 52px;
+  width: 105px;
+}
+
+.interface .overlap-group {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 25px;
+}
+
+.interface .mask-group {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 21px;
+}
+
+.interface .vector {
+  height: 17px;
+  left: 8px;
+  position: absolute;
+  top: 5px;
+  width: 17px;
+}
+
+.interface .img {
+  height: 20px;
+  left: 4px;
+  position: absolute;
+  top: 1px;
+  width: 20px;
+}
+
+.interface .wallet-sync {
+  color: transparent;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 27px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+  width: 65px;
+}
+
+.interface .span {
+  color: #ffffff;
+}
+
+.interface .text-wrapper-2 {
+  color: #3ecf8e;
+}
